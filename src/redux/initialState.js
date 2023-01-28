@@ -10,6 +10,11 @@ const initialState = {
       title: "Test list",
       description: "Lorem Ipsum",
     },
+    {
+      id: "3",
+      title: "Test list 2",
+      description: "Lorem Ipsum 2",
+    },
   ],
 
   columns: [
